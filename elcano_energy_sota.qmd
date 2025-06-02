@@ -1,0 +1,35 @@
+---
+title: "Energy modeling"
+author: "Emilio L. Cano"
+format: 
+  html:
+    embed-resources: true
+editor: visual
+bibliography: references.bib
+---
+
+## My thesis-related publications
+
+-   Thesis: @cano2014thesis
+
+-   First approach EnRiMa project: @cano2014cms
+
+-   Deterministic model: @cano2014enb
+
+-   Stochastic model: @cano2016enb
+
+-   Decision support system: @cano2017top
+
+## Further research
+
+### Conference papers
+
+-   Regional science: @regscience2018pub
+
+-   CMStats: @cmstats2017pub
+
+### Related work
+
+-   Sara's thesis: @sara2017dynaing
+
+## Bibliography
